@@ -14,9 +14,7 @@ https://engineersatyaa.github.io/react-pagination/
 
 ## Screenshots
 
-![Screenshots](https://raw.githubusercontent.com/engineersatyaa/react-pagination/main/public/pagination.jpg)
-
-
+![pagination](https://user-images.githubusercontent.com/112659596/206859382-a89609b8-b0b7-4851-995e-c289424f7023.jpeg)
 
 
 ## API Reference
